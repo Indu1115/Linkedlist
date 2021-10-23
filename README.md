@@ -7,3 +7,5 @@
     <li>Memory wastage</li>
   </ul>
 </ul>
+<h3>Defination</h3>
+<h2>Linkedlist is a linear data structure which is collection of nodes in which one node is connected to another node and the node consists of two parts, i.e., one is data part and other one is address part</h2>
