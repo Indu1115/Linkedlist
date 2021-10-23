@@ -46,5 +46,4 @@
   <li>The circular singly liked list has no beginning and no ending</li>
   <li>There is no null value present in the next part of any of the nodes</li>
 </ul>
-<img src="https://image.slidesharecdn.com/circularlinkedlist-110919032425-phpapp02/95/circular-linked-list-4-728.jpg?cb=1316404933">
-  
+<img src="https://1.bp.blogspot.com/-7mWILn9kqw8/XvyeQIseb-I/AAAAAAAAAdA/H7ee8fZJE0c1LDhxi9Osk2J2_5VsVQNigCK4BGAsYHg/w500-h118/Circular-singly-linked-list.png">
