@@ -27,3 +27,15 @@
     <th>Address Field</th>
   </tr>
 </table>
+<h3>Double linkedlist</h3>
+<ul>
+  <li>Doubly linked list is a complex type of linked list in which a node contains a pointer to the previous as well as the next node in the sequence</li> 
+  <li>Therefore, in a doubly linked list, a node consists of three parts: node data, pointer to the next node in sequence (next pointer) , pointer to the previous node (previous pointer)</li>
+</ul>
+<table>
+  <tr>
+    <td>prev</td>
+    <td>data</td>
+    <td>next</td>
+  </tr>
+</table>
