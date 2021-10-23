@@ -15,3 +15,15 @@
   <li>Double linkedlist</li>
   <li>Circular linkedlist</li>
 </ul>
+<h3>Single linkedlist</h3>
+<ul>
+  <li>Singly linked list can be defined as the collection of ordered set of elements</li>
+  <li>A node in the singly linked list consist of two parts: data part and link part</li>
+  <li>Data part of the node stores actual information that is to be represented by the node while the link part of the node stores the address of its immediate successor</li>
+</ul>
+<table>
+  <tr>
+    <th>Data Field</th>
+    <th>Address Field</th>
+  </tr>
+</table>
