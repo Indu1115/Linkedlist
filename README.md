@@ -39,3 +39,12 @@
     <td>next</td>
   </tr>
 </table>
+<h3>Circular linkedlist</h3>
+<ul>
+  <li>In a circular Singly linked list, the last node of the list contains a pointer to the first node of the list</li>
+  <li>We traverse a circular singly linked list until we reach the same node where we started</li>
+  <li>The circular singly liked list has no beginning and no ending</li>
+  <li>There is no null value present in the next part of any of the nodes</li>
+</ul>
+<img src="https://image.slidesharecdn.com/circularlinkedlist-110919032425-phpapp02/95/circular-linked-list-4-728.jpg?cb=1316404933">
+  
